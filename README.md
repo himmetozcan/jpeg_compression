@@ -1,6 +1,6 @@
 # JPEG compressed image detection and estimation
 
-This report was prepared for a home assignment for a job application. Here I will give the content and Python scripts to run the algorithm.
+This report was prepared for a home assignment for a job application. Here, I will give the full report and Python notebook with a few test images to run the algorithm.
 
 ## 1 Problem Statement
 ### 1.1 Research problem: JPEG compressed image detection and estimation
@@ -65,6 +65,7 @@ assume the compressed images are only compressed once, thus ignoring any issues 
 ## References
 
 **[1]** Z. Fan and R. L. De Queiroz, Identification of bitmap compression history: Jpeg detection and quantizer estimation, IEEE Transactions on Image Processing, vol. 12, no. 2, pp. 230-235, 2003.
+
 **[2]** M. C. Stamm, S. K. Tjoa, W. S. Lin, and K. R. Liu, Anti-forensics of jpeg compression, in 2010 IEEE
 International conference on acoustics, speech, and signal processing. IEEE, 2010, pp. 1694-1697.
 
